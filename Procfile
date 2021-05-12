@@ -1,0 +1,1 @@
+worker: java -jar target/lands-of-lords-1.0.jar
